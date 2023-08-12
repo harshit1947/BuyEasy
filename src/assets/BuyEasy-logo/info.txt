@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: DancingScript-Regular
+font link: https://fonts.google.com/specimen/Dancing+Script
+font author: Impallari Type
+font author site: www.impallari.com
+Slogan Font: Aleo-Light.otf
+
+icon designer: Depb Dew
+icon designer link: /depb
+        
+{"bg":"#0B173D","icon":"#D1A103","font":"#D1A103","slogan":"#e5b517"}
+      
